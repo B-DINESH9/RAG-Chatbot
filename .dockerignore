@@ -1,0 +1,14 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+.env
+tests/
+docs/
+*.md
+!README.md
+.pytest_cache
+.coverage
+data/tmp/*
+!data/tmp/.gitkeep
+rag-reference/

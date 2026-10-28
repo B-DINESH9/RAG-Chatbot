@@ -1,0 +1,7 @@
+topic,description,importance
+RAG,Retrieval-Augmented Generation combines retrieval with generation,High
+Embeddings,Vector representations of text for semantic search,High
+Chunking,Splitting documents into smaller pieces for processing,Medium
+Vector DB,Database optimized for storing and searching vectors,High
+LLM,Large Language Model for text generation,High
+Prompt Engineering,Designing effective prompts for LLMs,Medium

@@ -10,7 +10,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/🦜_LangChain-0.1+-green.svg)](https://langchain.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Docker](#-docker) • [Cloud Deploy](#-cloud-deployment) • [Architecture](#-architecture) • [Testing](#-testing)
 
@@ -29,7 +28,6 @@
 - [Testing](#-testing)
 - [API Reference](#-api-reference)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -414,12 +412,6 @@ create_memory(model_name: str = "gpt-3.5-turbo", openai_api_key: str = None) -> 
 5. Commit: `git commit -m 'Add amazing feature'`
 6. Push: `git push origin feature/amazing-feature`
 7. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
